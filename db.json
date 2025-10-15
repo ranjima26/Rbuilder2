@@ -1,0 +1,68 @@
+{
+  "all-resumes": [
+    {
+      "id": "18de",
+      "profesionlData": {
+        "name": "Ranjima R",
+        "jobTitle": "Developer",
+        "location": "kochi",
+        "email": "ranjimar062@gmail.com",
+        "phone": "8590037602",
+        "github": "ranjimar062@gmail.com",
+        "linkedIn": "ranjimar062@gmail.com",
+        "portfolio": "ranjimar062@gmail.com"
+      },
+      "educationData": {
+        "course": "BSc",
+        "college": "st pius x college rajapuram",
+        "university": "kannur university",
+        "year": "2025"
+      },
+      "experience": {
+        "jobRole": "mearn stack",
+        "company": "luminar technolab",
+        "jobLocation": "kochi",
+        "duration": "6 months"
+      },
+      "skill": [
+        "HTML",
+        "CSS",
+        "JAVASCRIPT",
+        "REACT"
+      ],
+      "summary": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five "
+    },
+    {
+      "id": "a2aa",
+      "profesionlData": {
+        "name": "Ranjima R",
+        "jobTitle": " web Developer",
+        "location": "kochi",
+        "email": "ranjimar062@gmail.com",
+        "phone": "8590037602",
+        "github": "ranjimar062@gmail.com",
+        "linkedIn": "ranjimar062@gmail.com",
+        "portfolio": "ranjimar062@gmail.com"
+      },
+      "educationData": {
+        "course": "BSc",
+        "college": "st pius x college rajapuram",
+        "university": "kannur university",
+        "year": "2025"
+      },
+      "experience": {
+        "jobRole": "mearn stack",
+        "company": "luminar technolab",
+        "jobLocation": "kochi",
+        "duration": "6 months"
+      },
+      "skill": [
+        "HTML",
+        "CSS",
+        "JAVASCRIPT",
+        "REACT"
+      ],
+      "summary": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five "
+    }
+  ]
+}
